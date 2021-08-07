@@ -52,14 +52,14 @@ Primeiro clone o repositório em seu computador, por meio do terminal utilizando
   $ yarn # ou npm install
 ```
 
-5. Iniciar a aplicação
+3. Iniciar a aplicação
 
 ```sh
   # Comando para iniciar a aplicação em modo de desenvolvimento
   $ yarn start
 ```
 
-5. Rodar os testes unitários
+4. Rodar os testes unitários
 
 ```sh
   # Comando para rodar os testes unitários
