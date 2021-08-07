@@ -17,6 +17,8 @@
 ## 💭 Sobre
 
 O My SuperHero é uma aplicação para você encontrar os heróis da Marvel através de uma simples pesquisa!
+Para acessar de forma mais simples, basta acessar o link, o projeto se encontra hospedado no Netifly!
+- <a href="https://my-super-heros.netlify.app/" target="_blank" rel="noopener">My SuperHero </a>
 
 ## 👨‍💻 Tecnologias Utilizadas
 
