@@ -26,6 +26,9 @@ export default function useSearchHero(heroId: string) {
             ts: keys.ts,
             hash: keys.hash,
           },
+          headers: {
+            Accept: "*/*",
+          },
         }
       );
       const { results } = resultFind.data;
