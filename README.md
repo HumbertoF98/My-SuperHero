@@ -1,7 +1,7 @@
 # My SuperHero 🌐
 
 <h1 align="center">
-    <img alt="Marvel-SuperHero" src="assets/images/marvel.png" height="250px" />
+    <img alt="Marvel-SuperHero" src="src/assets/images/marvel.png" height="250px" />
     <br/>
   <a href="https://pt-br.reactjs.org/" target="_blank" rel="noopener">ReactJs</a> | <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener">TypeScript</a>
 </h1>
@@ -16,7 +16,7 @@
 
 ## 💭 Sobre
 
-My SuperHero
+O My SuperHero é uma aplicação para você encontrar os heróis da Marvel através de uma simples pesquisa!
 
 ## 👨‍💻 Tecnologias Utilizadas
 
