@@ -1,46 +1,69 @@
-# Getting Started with Create React App
+# My SuperHero 🌐
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+    <img alt="Marvel-SuperHero" src="assets/marvel.png" height="250px" />
+    <br/>
+  <a href="https://pt-br.reactjs.org/" target="_blank" rel="noopener">ReactJs</a> | <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener">TypeScript</a>
+</h1>
 
-## Available Scripts
+<h3 align="center">
+  <a href="#-sobre">Sobre</a>
+  <span> · </span>
+  <a href="#-tecnologias-utilizadas">Tecnologias utilizadas</a>
+  <span> · </span>
+  <a href="#-como-usar">Como usar</a>
+</h3>
 
-In the project directory, you can run:
+## 💭 Sobre
 
-### `yarn start`
+My SuperHero
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 👨‍💻 Tecnologias Utilizadas
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- <a href="https://pt-br.reactjs.org/" target="_blank" rel="noopener">ReactJs</a>
+- <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener">TypeScript</a>
+- <a href="https://styled-components.com/" target="_blank" rel="noopener">Styled Components</a>
 
-### `yarn test`
+## ⁉ Como usar
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 🤔 Pré-requisitos
 
-### `yarn build`
+Para conseguir utilizar a aplicação é necessário ter:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Ter em sua máquina o **<a href="https://www.npmjs.com/" target="_blank" rel="noopener">NPM</a>** ou **<a href="https://yarnpkg.com/" target="_blank" rel="noopener">Yarn</a>** para o gerenciamento dos pacotes da aplicação
+- E não menos importante, o **<a href="https://git-scm.com/" target="_blank" rel="noopener">Git</a>** para clonar o repositório em seu computador
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 📝 Passo a passo
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Primeiro clone o repositório em seu computador, por meio do terminal utilizando o comando:
 
-### `yarn eject`
+1. Clonando o repositório
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+```sh
+  # Clone o repositório
+  $ git clone https://github.com/HumbertoF98/My-SuperHero.git
+  # Entre na pasta raiz da aplicação
+  $ cd My-SuperHero
+```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+2. Instalar as dependências da aplicação
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+```sh
+  $ yarn # ou npm install
+```
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+5. Iniciar a aplicação
 
-## Learn More
+```sh
+  # Comando para iniciar a aplicação em modo de desenvolvimento
+  $ yarn start
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+5. Rodar os testes unitários
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```sh
+  # Comando para rodar os testes unitários
+  $ yarn test
+```
+
+---
