@@ -1,7 +1,7 @@
 type Urls = {
   type: string;
   url: string;
-}
+};
 
 export type Data = {
   id: number;
@@ -21,4 +21,8 @@ export type ResultProps = {
     offset: number;
   };
   results: Data[];
+};
+
+export type TesteGitFlow = {
+  teste: string;
 };
