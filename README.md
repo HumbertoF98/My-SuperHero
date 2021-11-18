@@ -9,7 +9,7 @@
 <h3 align="center">
   <a href="#-sobre">Sobre</a>
   <span> · </span>
-  <a href="#-tecnologias-utilizadas">Tecnologias utilizadas</a>
+  <a href="#-tecnologias-utilizadas">Tecnologias que foram utilizadas</a>
   <span> · </span>
   <a href="#-como-usar">Como usar</a>
 </h3>
